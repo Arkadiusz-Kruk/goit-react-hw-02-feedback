@@ -10,7 +10,7 @@
     font-weight: bold;
     letter-spacing: 0.02em;
     background-color: orange;
-    box-shadow: 4px 4px 15px 1px rgba(26, 31, 50, 2);
+    box-shadow: 1px 1px 5px 1px rgba(26, 31, 50, 2);
 }
 
 .buttons__item:hover{
